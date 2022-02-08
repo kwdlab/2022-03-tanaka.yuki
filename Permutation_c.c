@@ -1,6 +1,7 @@
 /*Copyright (c) 2022 Yuki Tanaka
  Released under the MIT license
  https://github.com/kwdlab/tanaka.yuki/blob/kuwakado.hidenori/LICENCE
+ Original Code: https://sites.google.com/site/photonhashfunction/design
 */
 /* Thanks to Chien-Ning Chen for correcting a bug in previous version
  *
